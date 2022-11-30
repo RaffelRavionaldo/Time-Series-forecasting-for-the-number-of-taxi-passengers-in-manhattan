@@ -4,7 +4,7 @@ To assist the operation team of the NYC Taxi commission in Manhattan to optimize
 
 # How to Run the code :
 1. Download the code (Contact me if you want the token to download via linkedin)
-2. Install the requirement with this syntas : pip install -r requirement.txt
+2. Install the requirement with this synta : pip install -r requirement.txt
 3. Run the ipynb file in jupyter notebook
 
 # Analyze
